@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 #ignoring
-*.class
-*.jar
+.class
+.jar
